@@ -40,7 +40,7 @@
 
 ## Learn More
 
-* [Privacy Policy](learn-more/privacy-policy.md)
+* [Privacy Policy](learn-more/private-policy.md)
 
 
 ## Links 
