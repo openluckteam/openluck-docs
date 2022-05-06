@@ -37,6 +37,7 @@
 * [Contract Addresses](developers/contract-addresses.md)
 * [Subgraph](developers/subgraph.md) -->
 * [Technology](developers/technology.md)
+* [NFTs For Test](developers/nfts-for-test.md)
 
 ## Learn More
 

@@ -28,7 +28,7 @@ OpenLuck is an automated and autonomous NFT marketplace built for the community.
     IPFS is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. Pinata is a pin service for NFTs file store.
 
 
-    Pinata is a IPFS pin service provider, it makes NFTs file storage easy for everyone
+    Pinata is a IPFS pin service provider, it makes NFTs file storage easy for everyone.
 
 * **ThirdPartServices >> Moralis**
 
