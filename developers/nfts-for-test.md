@@ -13,6 +13,7 @@ Free Mint: https://rinkeby.etherscan.io/address/
 
 
 **EthBoredApeYachtClub**
+
 Address: 0x5e181EAd74816D885F1a9C4E899A4c76757b0d12
 
 Free Mint: https://rinkeby.etherscan.io/address/
@@ -20,6 +21,7 @@ Free Mint: https://rinkeby.etherscan.io/address/
 
 
 **EthMoonbirds**
+
 Address: 0xE5C6cA6AAb2717Cb98FEba4D7F78Bd1Ea323408a
 
 Free Mint: https://rinkeby.etherscan.io/address/
@@ -27,6 +29,7 @@ Free Mint: https://rinkeby.etherscan.io/address/
 
 
 **EthOtherdeed**
+
 Address: 0x9C692431A45b01286a4c51E4dcb34A1e6CdafFf9
 
 Free Mint: https://rinkeby.etherscan.io/address/
