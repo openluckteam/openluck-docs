@@ -38,6 +38,7 @@
 * [Subgraph](developers/subgraph.md) -->
 * [Technology](developers/technology.md)
 * [NFTs For Test](developers/nfts-for-test.md)
+* [Tokens For Test](developers/tokens-for-test.md)
 
 ## Learn More
 
