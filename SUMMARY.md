@@ -28,7 +28,7 @@
   * [Group a Luck](guides/lucks/group-a-luck.md)
   * [Winning a Luck](guides/lucks/winning-a-luck.md)
   * [Claim a Luck](guides/lucks/claim-a-luck.md) 
-* [Invite](guides/invite.md) 
+* [Invite System](guides/invite.md) 
 * [FAQs](guides/faqs.md)
 
 
