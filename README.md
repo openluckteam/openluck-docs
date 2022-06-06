@@ -4,7 +4,7 @@
 The OpenLuck protocol is not formally audited. It may be vulnerable to bugs or exploits.
 {% endhint %}
 
-Building The Most Creative and Liquid Cross-Chain NFT Marketplace.
+The First Web3 Cross-Chain NFT Liquidity Marketplace.
 
 _Unlock the ultimate cross-chain liquidity of NFT_
 

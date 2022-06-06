@@ -1,12 +1,8 @@
 ---
-description: OpenLuck Building The Most Creative and Liquid Cross-Chain NFT Marketplace.
+description: OpenLuck The First Web3 Cross-Chain NFT Liquidity Marketplace.
 ---
 
 # Product
-
-## Web3.0 Version
-
-The Web MVP version is lauched on April 2022.
 
 **mainnet**-Website: [https://openluck.org](https://openluck.org)
 
