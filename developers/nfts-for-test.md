@@ -3,6 +3,23 @@
 
 You can go to rinkeby ethersacn to call the **mint** function, to free mint NFT for testing.
 
+**EthGoblintownNFT**
+
+Address: 0x06FA52cb47DCd01162EDC604d0eB396FCA5221Aa
+
+[Free Mint](https://rinkeby.etherscan.io/address/0x06FA52cb47DCd01162EDC604d0eB396FCA5221Aa#writeContract)
+
+**EthMurakamiFlowers**
+
+Address: 0x2912e49d8556f1cc9a74b3e4bF8dbf5328e7958a
+
+[Free Mint](https://rinkeby.etherscan.io/address/0x2912e49d8556f1cc9a74b3e4bF8dbf5328e7958a#writeContract)
+
+**EthShitBeast**
+
+Address: 0xdD078Ade16eF42bE80703a54C6b7Bc6546eF0dE5
+
+[Free Mint](https://rinkeby.etherscan.io/address/0xdD078Ade16eF42bE80703a54C6b7Bc6546eF0dE5#writeContract)
 
 **EthAzuki**
 
