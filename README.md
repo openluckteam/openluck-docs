@@ -20,3 +20,6 @@ By using the world's first Lucks Trading model, it lowers the barriers to partic
 This innovative model makes NFT trading very interesting and attracts more people to participate, which greatly improves the liquidity of NFT and activates the entire NFT trading market.
 
 OpenLuck supports 721 and 1155 nft standards,whether it is collectibles, digital artwork, or assets of GameFi and Metaverse, you can conduct lucky transactions here.
+
+
+Learn more about OpenLuck by visiting our [Medium](https://medium.com/@openluck).
