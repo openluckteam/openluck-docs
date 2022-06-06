@@ -54,4 +54,5 @@
 * [Twitter](https://twitter.com/openluck_org)
 * [Telegram](https://t.me/OpenLuck)
 * [Discord](https://discord.io/openluck)
+* [Medium](https://medium.com/@openluck)
 * [LightPager](https://drive.google.com/file/d/1ZmyahAJ9ZdbNsFGkqz4sUJHLw7GSDlYP/view?usp=sharing)
