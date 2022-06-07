@@ -18,9 +18,9 @@ You can go to rinkeby ethersacn to call the **mint** function, to free mint NFT 
 
 **EthShitBeast**
 
-- Address: 0xdD078Ade16eF42bE80703a54C6b7Bc6546eF0dE5
+- Address: 0xe01a72571A56194c1f6002af77d5c24091a706bE
 
-- [Free Mint](https://rinkeby.etherscan.io/address/0xdD078Ade16eF42bE80703a54C6b7Bc6546eF0dE5#writeContract)
+- [Free Mint](https://rinkeby.etherscan.io/address/0xe01a72571A56194c1f6002af77d5c24091a706bE#writeContract)
 
 **EthMeebits**
 
