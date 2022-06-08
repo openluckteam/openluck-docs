@@ -10,7 +10,7 @@ OpenLuck is an automated and autonomous NFT marketplace built for the community.
 
 * **Cross-Chain Protocol >> LayerZero **
 
-    LayerZero is an Omnichain Interoperability Protocol designed for lightweight message passing across chains. LayerZero provides authentic and guaranteed message delivery with configurable trustlessness. The protocol is implemented as a set of gas-efficient, non-upgradable smart contracts.
+    LayerZero is an Omnichain Interoperability Protocol designed for lightweight messages passing across chains. LayerZero provides authentic and guaranteed message delivery with configurable trustlessness. The protocol is implemented as a set of gas-efficient, non-upgradable smart contracts.
 
 * **API&Indexes >> TheGraph**
 
@@ -25,10 +25,10 @@ OpenLuck is an automated and autonomous NFT marketplace built for the community.
 
 * **Storage >> IPFS/Pinata**
 
-    IPFS is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. Pinata is a pin service for NFTs file store.
+    IPFS is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. Pinata is a pinning service for NFTs file stores.
 
 
-    Pinata is a IPFS pin service provider, it makes NFTs file storage easy for everyone.
+    Pinata is an IPFS pin service provider, it makes NFTs file storage easy for everyone.
 
 * **ThirdPartServices >> Moralis**
 
