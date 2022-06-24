@@ -1,4 +1,3 @@
-
 # Invite System
 
 Invite your friends and get rewards points.
@@ -12,29 +11,26 @@ The Invite System brings our initial community together and rewards them with Re
 ### Rules
 
 #### Initial Points
-After joining the invite system, you will receive an invite code and an initial number of points based on your Twitter account's public metrics. 
 
-Initial Points = following_count + followers_count + tweet_count * 2.
+After joining the invite system, you will receive an invite code and an initial number of points based on your Twitter account's public metrics.
+
+Initial Points = following\_count + followers\_count + tweet\_count \* 2.
 
 #### Invite Points
-Each invite code can be used to invite 10 people.
-Your points will increase by 50% * your invite’s points. Therefore, you will receive more points for inviting a twitter influencer. Use your invites wisely!
 
-Invite Points =  10 invitee's Initial Points * 50%.
+Each invite code can be used to invite 10 people. Your points will increase by 50% \* your invite’s points. Therefore, you will receive more points for inviting a twitter influencer. Use your invites wisely!
+
+Invite Points = 10 invitee's Initial Points \* 50%.
 
 #### 2nd Degree Invite Points
 
-Every time someone you invite shares an invite, your points will increase by 10% * the 2nd-degree invite’s points.
+Every time someone you invite shares an invite, your points will increase by 10% \* the 2nd-degree invite’s points.
 
-2nd Invite Points =  100 2nd invitee's Initial Points * 10%.
+2nd Invite Points = 100 2nd invitee's Initial Points \* 10%.
 
 ### Future Rewards
 
-In the future, members will be rewarded with REDACTED for every point they accrue. 
+In the future, members will be rewarded with REDACTED for every point they accrue.
 
 * More Points mean more Airdrops and Rewards in the future.
 * We will randomly select several lucky users to get additional surprise rewards. Therefore, all participants have the opportunity to obtain.
-
-
-
-
