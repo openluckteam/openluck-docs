@@ -3,6 +3,13 @@
 
 You can go to rinkeby ethersacn to call the **mint** function, to free mint NFT for testing.
 
+**EthCryptoPunks**
+
+- Address: 0x5CC356bf3928084AA23eA2277e72b09dF5845212
+
+- [Free Mint](https://rinkeby.etherscan.io/address/0x5CC356bf3928084AA23eA2277e72b09dF5845212#writeContract) (call the **getPunk** function)
+
+
 **EthGoblintownNFT**
 
 - Address: 0x06FA52cb47DCd01162EDC604d0eB396FCA5221Aa
