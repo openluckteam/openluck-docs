@@ -29,7 +29,7 @@ OpenLuck is a non-custodial NFT marketplace controlled by smart contracts runnin
 
 **6. Which NFT standards do OpenLuck support?**
 
-OpenLuck supports 721 and 1155 NFT standards whether it is collectibles, digital artwork, or assets of GameFi and Metaverse, you can conduct lucky transactions here.
+OpenLuck supports **CryptoPunks**, **ERC721** and **ERC1155** NFT standards whether it is collectibles, digital artwork, or assets of GameFi and Metaverse, you can conduct lucky transactions here.
 
 **7. Does OpenLuck support cross-chain creation of Lucks Trading orders?**
 

@@ -13,7 +13,7 @@ Lucks NFT is an innovative trading model that combines CrowdFunding & Lottery Dr
 
 #### **Main Flows**
 
-1. \[Ethereum / BNB Chain] Seller create a **Luck** with a NFT (erc721/erc1155)
+1. \[Ethereum / BNB Chain] Seller create a **Luck** with a NFT (cryptopunks/erc721/erc1155)
 2. \[BNB Chain] Users join a Luck to get a Ticket
 3. \[BNB Chain] ChainLink Keepers automatically close the **Luck** when time's up.
 4. \[BNB Chain] ChainLink Keekpers automatically draw a winning number of this **Lucks** via ChainLink VRF fairly and transparently.

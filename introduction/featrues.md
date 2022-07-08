@@ -14,7 +14,7 @@ Here is some key information for Lucks Trading:
 
 
 * Accept tokens (BNB/BUSD/USCD/USDT), each task can select one kind of payment token.
-* Support 721 and 1155 NFT standards.
+* Support CryptoPunks, ERC721 and ERC1155 NFT standards.
 * Lucky Bonus: In addition to NFTs, the winners also have the opportunity to receive 0~30% of the deal amount bonus (the ratio is set by the seller when creating the task).
 * Lucky Group: Lucks Trading supports team mode, up to 10 people. If someone in the group is the winner, the group members can share the lucky dividend equally. It greatly increases social fun and the winning probability.
 * Participants can get $LUCK rewards in different proportions.
