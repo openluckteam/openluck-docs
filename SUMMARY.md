@@ -30,9 +30,9 @@
 
 * [Technology](developers/technology.md)
 * [Mainnet](developers/mainnet.md)
-  * [Mainnet Addresses](developers/mainnet-contracts.md)
+  * [Mainnet Addresses](developers/mainnet-address.md)
 * [Testnets](developers/testnets.md)
-  * [Testnets Addresses](developers/testnets-contracts.md)
+  * [Testnets Addresses](developers/testnets-address.md)
   * [NFTs For Test](developers/nfts-for-test.md)
   * [Tokens For Test](developers/tokens-for-test.md)
 
