@@ -1,4 +1,4 @@
-## ** Technology**
+## **Technology**
 
 OpenLuck is an automated and autonomous NFT marketplace built for the community. The following details are our core technical architecture selection.
 
@@ -8,7 +8,7 @@ OpenLuck is an automated and autonomous NFT marketplace built for the community.
 
     BNB Chain is a smart contract-enabled high throughput blockchain that boasts low fees. And it is a community-driven, open-sourced and decentralized ecosystem. The support of its community of users, developers, validators and delegators is vital to its health.
 
-* **Cross-Chain Protocol >> LayerZero **
+* **Cross-Chain Protocol >> LayerZero**
 
     LayerZero is an Omnichain Interoperability Protocol designed for lightweight messages passing across chains. LayerZero provides authentic and guaranteed message delivery with configurable trustlessness. The protocol is implemented as a set of gas-efficient, non-upgradable smart contracts.
 

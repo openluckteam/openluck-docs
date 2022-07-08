@@ -29,8 +29,12 @@
 ## Developers
 
 * [Technology](developers/technology.md)
-* [NFTs For Test](developers/nfts-for-test.md)
-* [Tokens For Test](developers/tokens-for-test.md)
+* [Mainnet](developers/mainnet.md)
+  * [Mainnet Addresses](developers/mainnet-contracts.md)
+* [Testnets](developers/testnets.md)
+  * [Testnets Addresses](developers/testnets-contracts.md)
+  * [NFTs For Test](developers/nfts-for-test.md)
+  * [Tokens For Test](developers/tokens-for-test.md)
 
 ## Learn More
 
