@@ -1,4 +1,4 @@
 # Mainnet #
-**Mainnet deployments**
+**Mainnet WebSite**
 
 [https://openluck.org](https://openluck.org)
