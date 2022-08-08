@@ -45,7 +45,7 @@
 * [Website](https://openluck.org)
 * [Email](mailto:team@openluck.org)
 * [Github](https://github.com/openluckteam)
-* [Twitter](https://twitter.com/openluck\_org)
+* [Twitter](https://twitter.com/openluck_org)
 * [Telegram](https://t.me/OpenLuck)
 * [Discord](https://discord.io/openluck)
 * [Medium](https://medium.com/@openluck)
