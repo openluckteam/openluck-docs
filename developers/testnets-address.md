@@ -52,4 +52,7 @@ description: OpenLuck Testnets Deployments
 
 ### **Subgraph**
 
-****[**https://thegraph.com/hosted-service/subgraph/openluckteam/openluckdev**](https://thegraph.com/hosted-service/subgraph/openluckteam/openluckdev)****
+| Network           | Address                                                                                                                          |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| BNB Chain Testnet | [https://api.thegraph.com/subgraphs/name/openlucklab/bnbdev](https://api.thegraph.com/subgraphs/name/openlucklab/bnbdev)         |
+| Polygon-testnet   | [https://api.thegraph.com/subgraphs/name/openlucklab/polygondev](https://api.thegraph.com/subgraphs/name/openlucklab/polygondev) |
