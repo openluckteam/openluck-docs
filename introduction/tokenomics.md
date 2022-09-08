@@ -4,6 +4,8 @@ OpenLuck Token: **$LUCK**
 
 Total Supply: **1,000,000,000**
 
+Token Status**:  Unissued** (planning only)
+
 ## **Token Core Function**
 
 * 50% of the net fees on OpenLuck will be distributed to $LUCK stakers .
